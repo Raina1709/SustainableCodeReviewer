@@ -5,3 +5,4 @@ joblib
 requests
 numpy
 openai
+astunparse
